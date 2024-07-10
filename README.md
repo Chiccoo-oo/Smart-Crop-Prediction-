@@ -1,1 +1,1 @@
-# Smart-Crop-Prediction-
+# Smart-Crop-Recommendation-
